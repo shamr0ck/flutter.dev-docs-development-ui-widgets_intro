@@ -107,7 +107,7 @@ void main() {
       products: <Product>[
         Product(name: 'Eggs'),
         Product(name: 'Flour'),
-        Product(name: 'Chocolate chips'),
+        Product(name: 'Chocolate chips L'),
       ],
     ),
   ));
